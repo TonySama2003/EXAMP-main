@@ -12,15 +12,15 @@ class MyApp extends StatelessWidget {
     // Create a list of employees (you should populate this with actual data)
     List<Employee> employees = [
       Employee(
-        name: 'phuc',
+        name: 'hoa',
         age: 23,
-        position: 'sdfsdfsdfsdf',
+        position: 'Software FPT',
         avatarAsset: 'images/employee1.jpg',
       ),
       Employee(
-        name: 'thong ',
+        name: 'hong ',
         age: 23,
-        position: 'sdfskdjfljsldfT',
+        position: 'Software FPT',
         avatarAsset: 'images/employee2.jpg',
       ),
 
